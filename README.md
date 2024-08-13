@@ -11,7 +11,7 @@
 </div>
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=numih-lucas-nogueira&show_icons=true&theme=radical)
 
   # 🌐 Tecnologia utilizadas:
   
@@ -35,5 +35,5 @@
 <br/>
 
 # 🏆 Troféus do GitHub
-![](https://github-profile-trophy.vercel.app/?username=numih-lucas-nogueira&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=numih-lucas-nogueira&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
