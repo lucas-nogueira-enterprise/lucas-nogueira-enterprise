@@ -11,7 +11,7 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=numih-lucas-nogueira&show_icons=true&theme=radical)
+
 
   # 🌐 Tecnologia utilizadas:
   
