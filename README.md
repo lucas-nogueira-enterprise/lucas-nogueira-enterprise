@@ -6,7 +6,7 @@
 <div style="display: inline_block"><br>
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=numih-lucas-nogueira&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numih-lucas-nogueira&layout=compact&theme=gruvbox)
 
 </div>
 
