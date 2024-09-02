@@ -5,8 +5,8 @@
 👨‍💻 Git Job <br/>
 <div style="display: inline_block"><br>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=numih-lucas-nogueira&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numih-lucas-nogueira&layout=compact&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucas-nogueira-enterprise&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-nogueira-enterprise&layout=compact&theme=gruvbox)
 
 </div>
 
@@ -35,5 +35,5 @@
 <br/>
 
 # 🏆 Troféus do GitHub
-![](https://github-profile-trophy.vercel.app/?username=numih-lucas-nogueira&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=lucas-nogueira-enterprise&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
