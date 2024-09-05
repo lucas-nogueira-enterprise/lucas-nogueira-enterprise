@@ -5,9 +5,9 @@
 👨‍💻 Git Job <br/>
 <div style="display: inline_block"><br>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lucas-nogueira-enterprise&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucas-nogueira-leggal&show_icons=true&theme=gruvbox)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-nogueira-enterprise&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-nogueira-leggal&layout=compact&theme=gruvbox)
 
 </div>
 
